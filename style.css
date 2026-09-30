@@ -3658,21 +3658,6 @@ footer {
     padding-top: 25px;
 }
 
-                      /* FOOTER */
-
-/* =====================================================
-   FOOTER
-===================================================== */
-
-.footer {
-    width: 100%;
-    background: #050505;
-    color: #ffffff;
-    padding: 90px 8vw 0;
-    border-top: 1px solid rgba(255, 255, 255, 0.1);
-    box-sizing: border-box;
-}
-
 
 /* =====================================================
    MAIN FOOTER
